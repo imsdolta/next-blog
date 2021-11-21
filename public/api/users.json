@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Jhon Doe Smith",
+    "email": "jhondDoe@demo.com"
+  },
+  {
+    "id": 2,
+    "name": "mark manson",
+    "email": "mark@manson.com"
+  },
+  {
+    "id": 3,
+    "name": "sanjay",
+    "email": "sanjay@demo.com"
+  },
+  {
+    "id": 4,
+    "name": "priya jain",
+    "email": "priyajain@demo.com"
+  }
+]
