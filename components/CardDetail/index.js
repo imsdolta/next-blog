@@ -23,7 +23,7 @@ export default function RecipeReviewCard(props) {
       <CardHeader
         avatar={
           <Avatar sx={{ bgcolor: red[500] }} aria-label='recipe'>
-            {name.slice(0, 1)}
+            {name?.slice(0, 1)}
           </Avatar>
         }
         action={
