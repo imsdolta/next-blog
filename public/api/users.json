@@ -1,22 +1,22 @@
 [
   {
     "id": 1,
-    "name": "Jhon Doe Smith",
-    "email": "jhondDoe@demo.com"
+    "name": "Tyler Cowen",
+    "email": "Tyler@marginalrevolution.com"
   },
   {
     "id": 2,
-    "name": "mark manson",
-    "email": "mark@manson.com"
+    "name": "Jason Scott",
+    "email": "jason@scott.com"
   },
   {
     "id": 3,
-    "name": "sanjay",
-    "email": "sanjay@demo.com"
+    "name": "Seth Godin",
+    "email": "seth@godin.com"
   },
   {
     "id": 4,
-    "name": "priya jain",
-    "email": "priyajain@demo.com"
+    "name": "Naval Ravikant",
+    "email": "naval@angellist.com"
   }
 ]
