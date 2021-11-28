@@ -9,7 +9,7 @@ export default function Home(props) {
   const posts = props.posts;
 
   return (
-    <Layout title='Blog'>
+    <Layout title='Blogger'>
       <Container maxWidth='lg'>
         {posts.map((post, index) => (
           <Card key={post.title + index} post={post} />
@@ -22,7 +22,7 @@ export default function Home(props) {
 export async function getStaticProps(context) {
   posts.forEach((post, index) => {
     const name = users.filter((user) => user.id == post.user)[0].name;
-    posts[index].postUser = name;
+    posts[index].username = name;
   });
 
   return {

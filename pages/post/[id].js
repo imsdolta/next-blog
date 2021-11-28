@@ -16,7 +16,7 @@ const Post = (props) => {
   const user = users.filter((post) => post.user == userId);
 
   return (
-    <Layout title='Blog'>
+    <Layout title='Blogger'>
       <Container maxWidth='lg'>
         <CardDetail post={post} user={user} />
       </Container>
